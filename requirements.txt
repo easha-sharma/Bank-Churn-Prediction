@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+pymongo
+joblib
+streamlit
+imbalanced-learn
